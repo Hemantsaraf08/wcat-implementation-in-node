@@ -29,3 +29,10 @@ We can mix and match the options.
 1- If file entered is not found then it gives file does not exist error.
 
 2- -n and -b are 2 options which are mutually exclusive so if user types both of them together only the first enter option should work.
+<h3> input (to run use: node wcat.js file1path, file2path, ... command1 command2...)</h3>
+
+![image](https://github.com/Hemantsaraf08/wcat-implementation-in-node/tree/main/input.jpg?raw=true)
+<h3> output (for commands "-b" and "-s" only</h3>
+
+![image](https://github.com/Hemantsaraf08/wcat-implementation-in-node/tree/main/output.jpg?raw=true)
+
