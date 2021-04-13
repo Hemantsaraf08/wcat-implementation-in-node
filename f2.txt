@@ -1,0 +1,18 @@
+Hi
+
+Line 1 of f2
+
+
+line 2 of f2
+line 3 of f2
+line 4 of f2
+line 5 of f2
+line 6 of f2
+
+//some empty lines of f2
+
+
+
+
+\\this is not an end of f2
+

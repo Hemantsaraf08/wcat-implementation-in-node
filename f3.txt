@@ -1,0 +1,13 @@
+Line 1 of f3
+line 2 of f3
+line 3 of f3
+line 4 of f3
+line 5 of f3
+line 6 of f3
+
+//some empty lines of f3
+
+
+
+
+\\end of f3
